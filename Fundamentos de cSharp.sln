@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso Youtobe", "Curso Youtobe\Curso Youtobe.csproj", "{FD99653A-897F-4F69-80FF-72A4A97DADD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD99653A-897F-4F69-80FF-72A4A97DADD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD99653A-897F-4F69-80FF-72A4A97DADD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD99653A-897F-4F69-80FF-72A4A97DADD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD99653A-897F-4F69-80FF-72A4A97DADD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3B9204-3C98-4992-8BEE-F8BA86BA8126}
+	EndGlobalSection
+EndGlobal
